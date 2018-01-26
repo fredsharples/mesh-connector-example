@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mesh Connector Example", "Mesh Connector Example.csproj", "{5057CD62-4370-9F91-A5DE-752EF0C98E2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5057CD62-4370-9F91-A5DE-752EF0C98E2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5057CD62-4370-9F91-A5DE-752EF0C98E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5057CD62-4370-9F91-A5DE-752EF0C98E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5057CD62-4370-9F91-A5DE-752EF0C98E2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 801dfe6337ad81c4b91321fc949f2a4a
+timeCreated: 1516988996
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lineMat: {fileID: 2100000, guid: f0ae2e570860e16408f69718456a02ae, type: 2}
+  - Object1: {instanceID: 0}
+  - Object2: {instanceID: 0}
+  - cylinderMesh: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
